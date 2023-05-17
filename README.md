@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajad Wazin</h1>
-<h3 align="center">Computer Science Graduate</h3>
+<h3 align="center">Honours Computer Science Graduate</h3>
 
 I have completed a 3 year Bachelor of Science in Honours Computer Science at McGill University. I mainly focused on Algorithm Design and Software Architecture, however I spent quite a bit of time learning about different aspects of software development. In particular I been able to use C++ to write my own Graphics Rendering Engine, make my own Linux shell in C, use Python to implement a variety of artificial intelligence agents from scratch and also implement machine learning models, among many more things. One of my proudest achievements is leading my own research projects on Artificial Intelligence algorithms and their societal effect.
 
