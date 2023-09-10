@@ -3,12 +3,7 @@
 
 I have completed a 3 year Bachelor of Science in Honours Computer Science at McGill University. I mainly focused on Algorithm Design and Software Architecture, however I spent quite a bit of time learning about different aspects of software development. In particular I been able to use C++ to write my own Graphics Rendering Engine, make my own Linux shell in C, use Python to implement a variety of artificial intelligence agents from scratch and also implement machine learning models, among many more things. One of my proudest achievements is leading my own research projects on Artificial Intelligence algorithms and their societal effect.
 
-- 💬 Ask me about **Java and Object Oriented Programming**
-
 - 📫 How to reach me **sajad.wazin@mail.mcgill.ca**
-
-- ⚡ Fun fact **I try to complete at least one medium scale project a week**
-
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
